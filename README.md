@@ -1,2 +1,5 @@
 # hello-world
-Ideas
+
+Hello!
+
+Just trying to understand how branches and commit changes work.
